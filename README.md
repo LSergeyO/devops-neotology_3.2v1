@@ -25,8 +25,7 @@ PID TTY          TIME CMD
 1153 tty2     00:00:00 gnome-session-b  
 5792 pts/1    00:00:00 sudo  
 5796 pts/1    00:00:00 bash  
-21540 pts/0    00:00:00 sudo  
-14. 
+21540 pts/0    00:00:00 sudo
 21541 pts/0    00:00:00 bash  
 21571 pts/0    00:00:00 ping  
 21572 pts/1    00:00:00 ps  
